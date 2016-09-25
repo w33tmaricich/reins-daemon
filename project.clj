@@ -1,5 +1,5 @@
 (defproject w33tmaricich/reins-daemon "0.1.0-SNAPSHOT"
-  :description "A mobile agent deployment server."
+  :description "A mobile agent execution environment."
   :url "http://github.com/w33tmaricich/reins-daemon"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}

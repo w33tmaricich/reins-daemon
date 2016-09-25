@@ -1,7 +1,7 @@
 (ns reins-daemon.core
   (:gen-class))
 
-(def config (atom {}))
+(def config (atom nil))
 
 (defn -main
   "Listen for agents and act on them if they have the proper credentials."
